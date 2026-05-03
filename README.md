@@ -34,6 +34,7 @@
 
 git clone https://github.com/markmykola/sales-forecasting-and-production-planning.git
 cd sales-forecasting-and-production-planning
+
 2. ⚠️ ВАЖЛИВО: Підготуйте датасети (Розпакуйте архів)
 
 Оскільки історичні дані продажів мають великий розмір, вони стиснуті в архів. Перед запуском системи:
