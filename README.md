@@ -29,7 +29,7 @@
 
 ---
 
-##⚙️ Як запустити локально
+## ⚙️ Як запустити локально
 1. Клонуйте репозиторій:
 
 git clone https://github.com/markmykola/sales-forecasting-and-production-planning.git
