@@ -30,25 +30,22 @@
 ---
 
 ## ⚙️ Як запустити локально
-1. Клонуйте репозиторій:
-
-git clone https://github.com/markmykola/sales-forecasting-and-production-planning.git
+**Крок 1. Клонуйте репозиторій**
+```bash
+git clone [https://github.com/markmykola/sales-forecasting-and-production-planning.git](https://github.com/markmykola/sales-forecasting-and-production-planning.git)
 cd sales-forecasting-and-production-planning
-
-2. ⚠️ ВАЖЛИВО: Підготуйте датасети (Розпакуйте архів)
-
+```
+**Крок 2. Підготуйте датасети (Розпакуйте архів)**
 Оскільки історичні дані продажів мають великий розмір, вони стиснуті в архів. Перед запуском системи:
-
-Перейдіть до папки data/.
-
-Знайдіть файл data.zip.
-
-Розпакуйте його вміст безпосередньо в цю ж папку data/.
+- Перейдіть до папки data/.
+- Знайдіть файл data.zip.
+- Розпакуйте його вміст безпосередньо в цю ж папку data/.
 (Переконайтеся, що після розпакування файли з даними лежать прямо в папці data, а не у вкладеній підпапці).
 
-3. Встановіть необхідні залежності:
-
+**Крок 3. Встановіть необхідні залежності**
+```bash
 pip install pandas numpy matplotlib scikit-learn
-4. Запустіть програмний модуль:
-
+```
+**Крок 4. Запустіть програмний модуль**
+```Bash
 python main.py
