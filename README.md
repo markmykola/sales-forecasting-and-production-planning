@@ -48,4 +48,4 @@ pip install pandas numpy matplotlib scikit-learn
 ```
 **Крок 4. Запустіть програмний модуль**
 ```Bash
-python main.py
+python run_app.py
