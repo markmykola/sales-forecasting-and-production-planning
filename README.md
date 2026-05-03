@@ -14,7 +14,6 @@
 * **System Design:** Архітектура попередньо змодельована за допомогою UML-діаграм та структурного аналізу.
 
 ## 📸 Інтерфейс та Дашборди
-*(Додайте сюди скріншоти графіків прогнозування або інтерфейсу програми)*
 <p align="center">
   <img width="700" alt="Forecasting Dashboard" src="https://github.com/user-attachments/assets/f75bfef7-7f6b-48b7-89b3-22fa24393d02" />
   <br><br>
