@@ -16,9 +16,13 @@
 ## 📸 Інтерфейс та Дашборди
 *(Додайте сюди скріншоти графіків прогнозування або інтерфейсу програми)*
 <p align="center">
-  <img width="700" alt="Forecasting Dashboard" src="ПОСИЛАННЯ_НА_СКРІНШОТ_1" />
+  <img width="700" alt="Forecasting Dashboard" src="https://github.com/user-attachments/assets/f75bfef7-7f6b-48b7-89b3-22fa24393d02" />
   <br><br>
-  <img width="700" alt="Production Plan" src="ПОСИЛАННЯ_НА_СКРІНШОТ_2" />
+  <img width="700" alt="Production Plan" src="https://github.com/user-attachments/assets/924902e0-829a-405c-8e58-57165581e61c" />
+  <br><br>
+  <img width="700" alt="Production Plan" src="https://github.com/user-attachments/assets/d9a5059d-c5e5-438f-ba2b-194660516f1d" />
+  <br><br>
+  <img width="700" alt="Production Plan" src="https://github.com/user-attachments/assets/c134d926-a502-4b7f-8920-1dadcd9adf96" />
 </p>
 
 ## 🛠️ Технологічний стек
